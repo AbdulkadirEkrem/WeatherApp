@@ -20,8 +20,8 @@ OpenWeatherMap API ile anlık hava durumu bilgilerini kullanıcıya sunar.
 ## 🖼️ Uygulama Ekran Görüntüleri
 
 <p align="center">
-  <img src="https://github.com/AbdulkadirEkrem/WeatherApp/blob/main/WeatherAppAPI.PNG" alt="Ana ekran" width="300" />
-  <img src="https://github.com/AbdulkadirEkrem/WeatherApp/blob/main/WeatherAppAPI2.PNG" alt="Sonuç ekranı" width="300" />
+  <img src="https://raw.githubusercontent.com/AbdulkadirEkrem/WeatherApp/master/WeatherAppAPI.PNG" alt="Ana ekran" width="300" />
+  <img src="https://raw.githubusercontent.com/AbdulkadirEkrem/WeatherApp/master/WeatherAppAPI2.PNG" alt="Sonuç ekranı" width="300" />
 </p>
 
 
