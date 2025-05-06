@@ -33,12 +33,13 @@ Bu uygulama, hava durumu verilerini almak için [OpenWeatherMap](https://openwea
 ➡️ OpenWeatherMap web sitesine giderek ücretsiz bir hesap oluşturun ve size özel API anahtarınızı alın.  
 Anahtarı `WeatherApiService.kt` dosyasındaki ilgili alana ekleyin ***** val apiKey = "YOUR_API_KEY" ***** :
 
-🚀 Kurulum
+## 🚀 Kurulum
 1- Repoyu klonlayın:
 git clone https://github.com/AbdulkadirEkrem/WeatherApp.git
 2- Android Studio ile projeyi açın
 3- API anahtarınızı ekleyin
-4- Emülatör veya fiziksel cihazda uygulamayı çalıştırın
+4- Emülatör veya fiziksel cihazda uygulamayı çalıştırın.
+## 
 
 👨‍💻 Geliştirici
 Abdulkadir Ekrem
